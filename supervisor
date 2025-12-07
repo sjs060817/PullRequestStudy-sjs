@@ -1,1 +1,2 @@
-sjs
+def asdf(a,b):
+    return a*b
